@@ -1,4 +1,4 @@
-# KU-Crawler - Extract and Transform KU website data into QA pairs
+# KU-Crawler: Extract and Transform KU website data into QA pairs
 ## Overview
 
 ## High-level Architecture
