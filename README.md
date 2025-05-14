@@ -1,5 +1,4 @@
 # KU-Crawler: Extract and Transform KU website data into QA pairs
-## Overview
 KU-Crawler is a modular web scraping and data preparation pipeline for crawling publicly available content from the University of Kansas websites. The content is then transformed into structured question-answer-context (QAC) pairs for use in fine-tuning a domain-specific large language model.
 
 ## Crawler
@@ -17,3 +16,4 @@ KU-Crawler is a modular web scraping and data preparation pipeline for crawling 
 <img width="1003" alt="Screenshot 2025-05-14 at 2 52 13 PM" src="https://github.com/user-attachments/assets/67dbb242-b893-4081-b9bf-9e8de4764e2e" />
 
 ## Train-Test Split
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/5ab95d28-44b9-4195-b6f0-d8953f1d7ec4" />
