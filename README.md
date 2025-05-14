@@ -18,3 +18,4 @@ To transform this raw content into fine-tuning-ready training data, the project 
 
 ## Train-Test Split
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/5ab95d28-44b9-4195-b6f0-d8953f1d7ec4" />
+This curated QAC dataset was then used to fine-tune the LLaMA 3.2 1B Instruct model using parameter-efficient techniques (LoRA) for KU-specific question answering. You can find the inference and training code here
